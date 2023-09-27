@@ -1,0 +1,14 @@
+body{
+    font-family: serif;
+
+}
+#cen{
+    text-align: center;
+}
+.success {
+    color: green;
+  }
+  
+  .failure {
+    color: red;
+  }
